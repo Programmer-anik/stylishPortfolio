@@ -1,0 +1,175 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Source Sans Pro';
+}
+
+.btn-xl {
+  padding: 1.25rem 2.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+.navbar{
+  background-color: #1D809F;
+  padding: 25px 0px;
+  color: white;
+  font-weight: bold;
+}
+.navbar-brand{
+  font-size: 30px;
+}
+.navbar-brand:hover{
+  color: #F1BF1B;
+}
+.nav-link{
+  color: white;
+  font-size: 15px;
+}
+.nav-link:hover{
+  color: #F1BF1B;
+}
+.masthead{
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: #F1BF1B;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.masthead h1{
+  font-size: 60px;
+}
+.tmi a.btn{
+  background-color: #31768E;
+  color: white;
+}
+.tmi a.btn:hover{
+  background-color: #155D74;
+}
+.abc{
+  font-size: 2rem;
+}
+.abcd{
+  font-size: 20px;
+  font-weight: normal; 343A40
+  font-size: 20px;
+  color: #212529;
+}
+.hulk{
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+.hulk a.btn{
+  background-color: #343A40;
+  font-weight: bold;
+}
+.hulk a.btn:hover{
+  background-color: #23272B;
+  font-weight: bold;
+  outline: none;
+}
+.hulk a.btn:after{
+  background-color: #23272B;
+  font-weight: bold;
+  outline: #23272B;
+}
+.shark{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background: #1D809F;
+}
+.shark h6{
+  color: #ECB807;
+}
+.shark h1{
+  color: white;
+  font-size: 3rem;
+}
+.shark .row{
+  margin-top: 40px;
+}
+.my-text{
+  color: #BCD9E2;
+}
+.sec_3 img{
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.callout{
+  background:  url("../img/bg-callout.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 240px 0px;
+}
+.callout h2{
+  font-size: 60px;
+}
+.callout .my_btn_1{
+  background-color: #31768E;
+  color: white;
+  font-weight: bold;
+}
+.sec_4 .container{
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+.sec_4 h6{
+  color: #ECB807;
+}
+.sec_4 h2{
+  font-size: 3rem;
+}
+.portfolio-item{
+  display: block;
+  position: relative;
+  overflow: hidden;
+  max-width: 530px;
+  margin: auto auto 1rem;
+}
+.portfolio-item .caption{
+  display: flex;
+  height: 1005;
+  width: 100%;
+  background-color: rgba(33, 37, 41, 0.2);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  text-align: left;
+}
+.portfolio-item .caption .caption-content{
+  color: #fff;
+  margin: auto 2rem 2rem;
+}
+.portfolio-item .caption .caption-content h3{
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+.portfolio-item .caption .caption-content p {
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+.sec_5{
+  padding: 100px 0px;
+  background-color: #1D809F;
+}
